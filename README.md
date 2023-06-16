@@ -66,4 +66,4 @@ Certifique-se que dentro desse script esteja apontando para pasta data_test corr
 
 http://www.dgi.inpe.br/catalogo/
 
-## Esse Readme foi gerado com CHAT-GPT :)
+## As imagens de satélites são muito pesadas, algumas imagens foram colocadas como .jpg para caber no limite de MB do github.
